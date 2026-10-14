@@ -7,7 +7,7 @@
       "app_name": "PixelTV Samsung",
       "platform": "Tizen",
       "access_code": "4207",
-      "liberar_app": true,
+      "liberar_app": false,
       "active": true,
       "message": "Código de acesso válido."
     },
