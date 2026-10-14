@@ -1,11 +1,13 @@
 {
+  {
   "version": "1.0.0",
-  "updated_at": "2026-10-11",
+  "updated_at": "2026-10-13",
   "apps": {
     "pixeltv_samsung": {
       "app_name": "PixelTV Samsung",
       "platform": "Tizen",
       "access_code": "4207",
+      "liberar_app": false,
       "active": true,
       "message": "Código de acesso válido."
     },
@@ -13,6 +15,7 @@
       "app_name": "PixelTV LG",
       "platform": "webOS",
       "access_code": "4505",
+      "liberar_app": true,
       "active": true,
       "message": "Código de acesso válido."
     },
