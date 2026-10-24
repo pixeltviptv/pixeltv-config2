@@ -1,8 +1,15 @@
 {
-  {
   "version": "1.0.0",
   "updated_at": "2026-10-13",
   "apps": {
+    "pxplayer_samsung": {
+      "app_name": "PX PLAYER PRO",
+      "platform": "Tizen",
+      "access_code": "4206",
+      "liberar_app": false,
+      "active": true,
+      "message": "Código de acesso válido."
+    },
     "pixeltv_samsung": {
       "app_name": "PixelTV Samsung",
       "platform": "Tizen",
@@ -23,6 +30,15 @@
       "app_name": "PixelTV Roku",
       "platform": "Roku OS",
       "access_code": "7890",
+      "liberar_app": false,
+      "active": true,
+      "message": "Código de acesso válido."
+    },
+    "pixeltv_android": {
+      "app_name": "PixelTV Android",
+      "platform": "Android TV",
+      "access_code": "4206",
+      "liberar_app": false,
       "active": true,
       "message": "Código de acesso válido."
     }
