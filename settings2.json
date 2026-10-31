@@ -8,6 +8,7 @@
       "access_code": "4206",
       "liberar_app": false,
       "active": true,
+      "teste_gratuito": "0000",
       "message": "Código de acesso válido."
     },
     "pixeltv_samsung": {
@@ -16,6 +17,7 @@
       "access_code": "4206",
       "liberar_app": false,
       "active": true,
+      "teste_gratuito": "0000",
       "message": "Código de acesso válido."
     },
     "pixeltv_lg": {
@@ -24,6 +26,7 @@
       "access_code": "4505",
       "liberar_app": true,
       "active": true,
+      "teste_gratuito": "0000",
       "message": "Código de acesso válido."
     },
     "pixeltv_roku": {
@@ -32,6 +35,7 @@
       "access_code": "7890",
       "liberar_app": false,
       "active": true,
+      "teste_gratuito": "0000",
       "message": "Código de acesso válido."
     },
     "pixeltv_android": {
@@ -40,6 +44,7 @@
       "access_code": "4206",
       "liberar_app": false,
       "active": true,
+      "teste_gratuito": "0000",
       "message": "Código de acesso válido."
     }
   }
